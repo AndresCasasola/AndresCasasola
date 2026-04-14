@@ -1,10 +1,8 @@
-## Hi there, I'm Andrés Casasola 👋
+## I'm Andrés Casasola 👋
 
-### Electronic Systems Engineer > Embedded Systems & Software
+### Electronic Systems Engineer specialized on embedded systems
 
 I’m an engineer driven by the challenge of bridging the gap between physical hardware and software to create intelligent electronic systems.
-
----
 
 ### What I’m focusing on right now
 * **Edge AI:** Implementing machine learning models on resource-constrained hardware.
@@ -25,19 +23,5 @@ I don’t write code: I love designing techs solutions. I thrive on autonomy and
 
 ### Reach me!
 https://www.linkedin.com/in/andres-casasola-dominguez/
+
 andres97dominguez@gmail.com
-
-<!--
-**AndresCasasola/AndresCasasola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
