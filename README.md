@@ -17,4 +17,4 @@ I’m an engineer driven by the challenge of bridging the gap between physical h
 * **Web:** React and Node.js.
 
 ### My Philosophy
-I don’t write code: I love designing techs solutions. I thrive on autonomy and love taking ownership of complex architectural challenges to turn them into functional products.
+I love designing techs solutions. I thrive on autonomy and love taking ownership of complex architectural challenges to turn them into functional products.
